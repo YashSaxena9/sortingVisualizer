@@ -1,0 +1,30 @@
+{
+  "name": "sorting-visualiser",
+  "version": "1.0.0",
+  "description": "sorting visualiser in vanilla js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashSaxena9/sortingVisualizer.git"
+  },
+  "keywords": [
+    "vanilla-js",
+    "sorting-visualiser",
+    "es6",
+    "algorithms"
+  ],
+  "author": "Yash Saxena <yashsaxena962000@gmail.com> (https://yashsaxena9.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashSaxena9/sortingVisualizer/issues"
+  },
+  "homepage": "https://github.com/YashSaxena9/sortingVisualizer#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
